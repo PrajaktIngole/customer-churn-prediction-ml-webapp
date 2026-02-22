@@ -101,4 +101,3 @@ The web app allows users to:
 
 ---
 
-## 📂 Project Structure
