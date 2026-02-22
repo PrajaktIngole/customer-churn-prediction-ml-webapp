@@ -47,7 +47,7 @@ The model predicts churn probability and classifies customers as:
 ## Preview
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/15f07d5a-e7e0-4c61-8154-e85ad76def84" width="900">
+  <img src="https://github.com/user-attachments/assets/f713bad8-b23c-4048-b457-22fb6f200651" width="900">
 </p>
 
 
