@@ -44,7 +44,8 @@ The model predicts churn probability and classifies customers as:
 
 ## 📊 Power BI Dashboard Features
 
-(assets/Customer_Churn_Overview.png)
+<img width="1283" height="725" alt="Screenshot 2026-02-22 141059" src="https://github.com/user-attachments/assets/15f07d5a-e7e0-4c61-8154-e85ad76def84" />
+
 
 - Total Customers KPI
 - Churned Customers KPI
