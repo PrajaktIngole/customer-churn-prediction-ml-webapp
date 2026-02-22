@@ -94,3 +94,5 @@ pickle.dump(model, open("churn_model.pkl", "wb"))
 
 # Save column structure
 pickle.dump(X.columns, open("model_columns.pkl", "wb"))
+
+print("Model saved successfully!")
