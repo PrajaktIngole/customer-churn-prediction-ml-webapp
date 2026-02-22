@@ -44,7 +44,7 @@ The model predicts churn probability and classifies customers as:
 
 ## 📊 Power BI Dashboard Features
 
-## 📊 Power BI Dashboard Preview
+## Preview
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/15f07d5a-e7e0-4c61-8154-e85ad76def84" width="900">
@@ -65,6 +65,17 @@ The model predicts churn probability and classifies customers as:
 
 🔗 Live Deployment:  
 https://customer-churn-prediction-ml-webapp.onrender.com/
+
+
+##Preview
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/200f50e0-fe46-47f9-9abe-1761a7ebfd2c" width="900">
+</p>
+
+
+
+
+
 
 The web app allows users to:
 
